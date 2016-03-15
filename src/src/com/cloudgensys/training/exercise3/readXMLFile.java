@@ -12,7 +12,7 @@ public class readXMLFile {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream( new File("C://Users/CGDELL23/Desktop/contact.xml"))));
 	    while(br.readLine() != null){
-	    	System.out.println
+	    	System.out.println("hello");
 	    }
 	}
 
