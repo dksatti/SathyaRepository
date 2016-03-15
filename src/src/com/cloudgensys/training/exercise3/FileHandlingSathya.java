@@ -13,7 +13,7 @@ public class FileHandlingSathya {
 			FileInputStream input;
 			try {
 				input  =   new FileInputStream("C://Users/CGDELL23/Desktop/Salary.txt");
-			System.out.println("SAthya");
+			System.out.println("SAthya      ");
 			int c;
 			
 				while ((c = input.read())!= -1)
